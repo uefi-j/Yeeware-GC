@@ -1,0 +1,15 @@
+YEEWARE GameCube  -  microgames estilo WarioWare
+================================================
+COMPILAR NA NUVEM (sem instalar nada):
+  1) Crie um repositorio no GitHub e envie TODO o conteudo desta pasta
+     (incluindo a pasta oculta .github e data/BOSS.RAW).
+  2) Aba "Actions" > "Compilar YEEWARE.dol" > Run workflow.
+  3) Baixe o artefato "YEEWARE-GC" -> YEEWARE.dol.
+  4) Abra o YEEWARE.dol direto no Dolphin (Open). Nao precisa de ISO nem BIOS.
+
+A musica do chefe fica DENTRO do .dol (data/BOSS.RAW, PCM 16 bits big-endian,
+44100 Hz, mono), entao nao ha arquivos soltos para o jogo procurar.
+
+CONTROLE (Dolphin: Controllers > Port 1 = Standard Controller):
+  START comeca | A = X do PS2 (confirmar/segurar) | stick = analogico esquerdo
+  C-STICK = analogico direito (chefe) | D-pad tambem vale no chefe e no cursor
