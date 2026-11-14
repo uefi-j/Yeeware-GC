@@ -1,0 +1,23 @@
+00:00:00.251006 VirtualBox GUI VM Selector Window 7.2.20 r175154 win.amd64 (Sep 22 2026 11:06:00) release log
+00:00:00.251008 Log opened 2026-10-22T22:59:50.667422600Z
+00:00:00.251008 Build Type: release
+00:00:00.251009 OS Product: Windows 11
+00:00:00.251096 OS Release: 10.0.26200.9711
+00:00:00.251096 OS Service Pack: 
+00:00:00.393085 DMI Product Name: 750XGK
+00:00:00.399059 DMI Product Version: P10CFP
+00:00:00.399069 Firmware type: UEFI
+00:00:00.399625 Secure Boot: Disabled
+00:00:00.399634 Host RAM: 7875MB (7.6GB) total, 1021MB available
+00:00:00.399637 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.399637 Process ID: 24068
+00:00:00.399638 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.399638 Windows Features:
+00:00:00.399638   Core Isolation (Memory Integrity): ENABLED
+00:00:00.399808 Qt version: 6.8.0
+00:00:00.400302 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.427311 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.968795 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:29.900192 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:13:21.980756 
+00:13:21.980757 !!! rtR3WinUnhandledXcptFilter caught an exception on thread 0000000000000fb0 in 24068 !!!

@@ -1,0 +1,440 @@
+00:00:00.005824 main     VirtualBox COM Server 7.2.20 r175154 win.amd64 (Sep 22 2026 11:06:00) release log
+00:00:00.005826 main     Log opened 2026-10-24T15:33:03.190095700Z
+00:00:00.005827 main     Build Type: release
+00:00:00.005830 main     OS Product: Windows 11
+00:00:00.006178 main     OS Release: 10.0.26200.9711
+00:00:00.006180 main     OS Service Pack: 
+00:00:00.088892 main     DMI Product Name: 750XGK
+00:00:00.105306 main     DMI Product Version: P10CFP
+00:00:00.105315 main     Firmware type: UEFI
+00:00:00.105956 main     Secure Boot: Disabled
+00:00:00.105979 main     Host RAM: 7875MB (7.6GB) total, 686MB available
+00:00:00.105986 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.105990 main     Process ID: 22276
+00:00:00.105990 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.117418 main     Windows Features:
+00:00:00.117419 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.460230          VirtualBox: object creation starts
+00:00:00.460438          Home directory: 'C:\Users\vrsc2\.VirtualBox'
+00:00:00.460722          Installed Drivers:
+00:00:00.464419            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.2.20.25154)
+00:00:00.465020            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.2.20.25154)
+00:00:00.465297            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.2.20.25154)
+00:00:00.466311            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.2.20.25154)
+00:00:00.472560          Loading settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.474652          usbLibGetDevices: Starting USB device enumeration
+00:00:00.502159          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.502481          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.502557          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.503499          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.503603          USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+00:00:00.503618          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.564661          HostDnsMonitor: initializing
+00:00:00.599593          HostDnsMonitor: updating information
+00:00:00.599627          HostDnsMonitor: old information
+00:00:00.599627            no server entries
+00:00:00.599628            no domain set
+00:00:00.599628            no search string entries
+00:00:00.599629          HostDnsMonitor: new information
+00:00:00.599629            server 1: 1.1.1.1
+00:00:00.599629            server 2: 1.0.0.1
+00:00:00.599630            no domain set
+00:00:00.599630            no search string entries
+00:00:00.606042          VD: VDInit finished with VINF_SUCCESS
+00:00:00.607747          Platform architecture set to 'x86'
+00:00:00.615954          Loading settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:00:00.616193          Platform architecture set to 'x86'
+00:00:00.616907          VirtualBox: object created
+00:00:03.335057          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.339120          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:00:03.448743          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.454328          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:00:03.454738          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.458677          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:00:03.459314          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.462995          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:00:03.614250          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:05.693666          Launched VM: 1319501280 pid: 29772 (0x744c) frontend: GUI/Qt name: Win XP
+00:00:05.809007          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:13.567000          Platform architecture set to 'x86'
+00:00:13.769289          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:19.626607          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:28.822455          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:28.835429          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:28.842065          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:28.846146          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:00:28.853263          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:00:28.865050          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:28.875850          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:30.438439 dns-monitor HostDnsMonitor: updating information
+00:00:30.438469 dns-monitor HostDnsMonitor: unchanged
+00:00:30.841982          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:30.842343          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:30.842686          HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:30.842720          HostDnsMonitorProxy::GetNameServers:
+00:00:30.842723            name server 1: 1.1.1.1
+00:00:30.842727            name server 2: 1.0.0.1
+00:00:30.842768          HostDnsMonitorProxy::GetSearchStrings:
+00:00:30.842772            no search string entries
+00:00:30.855892          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:30.906434          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:33.718316          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:00:33.723356          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:00:33.731584          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:55.515120          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:00:55.867268          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:00:55.878672          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:29.784477          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:29.788427          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:05.922349          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:15.036079          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:15.087045          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:02:15.104302          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:02:15.107368          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:15.146060          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:15.153490          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:02:15.187767          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:16.643160          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:32.857844          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:32.866931          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:02:43.367888 createBase Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:43.383122 createBase Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:02:46.531776          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.537856          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:02:46.539328          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.545400          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:02:48.260367          Platform architecture set to 'x86'
+00:02:48.310089          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:02:48.312125          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:48.317184          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:02:48.331860          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:48.343903          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:02:48.348364          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:02:48.405963          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:53.781396          Launched VM: 1319500416 pid: 20884 (0x5194) frontend: GUI/Qt name: Win XP
+00:02:53.810732          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:58.732931          Platform architecture set to 'x86'
+00:02:58.944788          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:01.243610          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:09.281620          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:09.292935          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:09.293638          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:03:09.300156          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:03:09.302171          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:03:09.308505          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:03:09.319153          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:09.963472          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:09.964455          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:03:09.965526          HostDnsMonitorProxy::GetDomainName: no domain set
+00:03:09.965722          HostDnsMonitorProxy::GetNameServers:
+00:03:09.965744            name server 1: 1.1.1.1
+00:03:09.965752            name server 2: 1.0.0.1
+00:03:09.965843          HostDnsMonitorProxy::GetSearchStrings:
+00:03:09.965858            no search string entries
+00:03:10.004262          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:03:10.048748          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:12.875354          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:03:12.880488          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:03:12.899898          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:03:31.630647          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:03:31.636494          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:03:31.659108          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:56.184802          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:10:06.405898          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:06.436027          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:10:08.258799          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:10:08.273044          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:10:40.376131          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:10:40.381186          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:10:40.415085          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:33.055275          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:14:33.078422          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:42.457994          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:14:42.481377          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:14:42.486612          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:14:42.503644          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:14:42.533817          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:14:42.575729          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:44.296435          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:46.436394          Platform architecture set to 'x86'
+00:14:46.440025          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:14:46.679988          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:15:10.033391 createBase ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Cannot register the hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vhd' {099cc6f2-6a28-46c8-a8a4-35775ea4cc12} because a hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vhd' with UUID {9cd7e0e1-5896-48f9-84ce-33b733853def} already exists}, preserve=false aResultDetail=0
+00:15:45.512381          Launched VM: 1320113808 pid: 21064 (0x5248) frontend: GUI/Qt name: Win XP
+00:15:45.558014          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:15:52.002944          Platform architecture set to 'x86'
+00:15:52.185534          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:15:54.523407          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:02.495336          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={UUID {099cc6f2-6a28-46c8-a8a4-35775ea4cc12} of the medium 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vhd' does not match the value {9cd7e0e1-5896-48f9-84ce-33b733853def} stored in the media registry ('C:\Users\vrsc2\.VirtualBox\VirtualBox.xml')}, preserve=true aResultDetail=0
+00:16:02.497347          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:16:02.506533          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:16:02.537482          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:02.555448          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:02.557574          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:02.570325          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:16:02.579547          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:16:02.586532          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:16:02.596363          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:16:02.607507          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:03.689034 Watcher  Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:16:03.707104 Watcher  Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:16:03.863273          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:23.715561          Launched VM: 1320614528 pid: 3024 (0xbd0) frontend: GUI/Qt name: Win XP
+00:16:23.768281          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:29.297598          Platform architecture set to 'x86'
+00:16:29.498117          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:31.907812          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:39.565222          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={UUID {099cc6f2-6a28-46c8-a8a4-35775ea4cc12} of the medium 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vhd' does not match the value {9cd7e0e1-5896-48f9-84ce-33b733853def} stored in the media registry ('C:\Users\vrsc2\.VirtualBox\VirtualBox.xml')}, preserve=true aResultDetail=0
+00:16:39.566562          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:16:39.574732          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:16:39.606414          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:39.624363          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:39.628058          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:16:39.641499          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:16:39.655321          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:16:40.412833 Watcher  Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox" with version "1.19-windows"
+00:16:40.421839 Watcher  Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vbox"
+00:16:40.513585          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:16:47.898669          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:47.903699          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:16:47.903794          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:47.908759          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:16:47.915766 DeleteVM Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:47.927543 DeleteVM Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:16:47.928158          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:16:47.933471          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:16:47.942700          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {56ed47f2-bbc0-44c9-afed-770956cca8bf}}, preserve=false aResultDetail=0
+00:16:47.953796          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {56ed47f2-bbc0-44c9-afed-770956cca8bf}}, preserve=false aResultDetail=0
+00:16:47.979067          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={Loading the NVRAM store failed (VERR_PATH_NOT_FOUND)
+00:16:47.979079          }, preserve=false aResultDetail=0
+00:17:24.011791 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:17:24.044215 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:17:24.044769 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:17:24.045018 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:17:24.045538 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:18:15.955630 createBase ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Cannot register the hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vdi' {d2809bd9-89a2-4e9c-8e8c-5c7aa4f712b2} because a hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vdi' with UUID {2e8060c4-eef5-4dca-8599-db3b2de55943} already exists}, preserve=false aResultDetail=0
+00:19:04.160275 createBase ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Cannot register the hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vdi' {96f56737-1d44-4746-8e7b-c0c3ae7d19e5} because a hard disk 'C:\Users\vrsc2\VirtualBox VMs\Win XP\Win XP.vdi' with UUID {2e8060c4-eef5-4dca-8599-db3b2de55943} already exists}, preserve=false aResultDetail=0
+00:19:30.671540 createBase Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:19:30.680582 createBase Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:19:30.686800          Platform architecture set to 'x86'
+00:19:30.687196          Platform architecture set to 'x86'
+00:19:30.690059          Platform architecture set to 'x86'
+00:19:30.691579          Platform architecture set to 'x86'
+00:19:30.694730          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:30.698849          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:30.699118          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:19:30.704715          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:19:30.707303          Platform architecture set to 'x86'
+00:19:30.710350          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:19:30.715354          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:19:30.715976          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:30.722173          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:30.724280          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:30.731241          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:30.731861          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:30.737720          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:30.749440          UnattendedInstaller::initInstaller: UnattendedInstaller::savePassedData(): 
+00:19:30.836955          Platform architecture set to 'x86'
+00:19:30.838637          Unattended::i_reconfigureFloppy: Machine::addStorageController(Floppy) -> ERROR_SUCCESS 
+00:19:30.845940          Saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:19:30.850066          Finished saving settings file "C:\Users\vrsc2\.VirtualBox\VirtualBox.xml"
+00:19:30.850348          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:30.854721          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:30.874106          Launched VM: 1320427408 pid: 23716 (0x5ca4) frontend: GUI/Qt name: Windows XP 64bit
+00:19:30.980323          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:35.993420          Platform architecture set to 'x86'
+00:19:36.193991          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:38.823706          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:19:47.674274          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:47.679733          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:19:47.689472          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:19:47.695837          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:19:47.697881          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:47.702862          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:47.722641          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:48.308925          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:19:48.309327          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:19:48.309635          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:19:48.310025          HostDnsMonitorProxy::GetDomainName: no domain set
+00:19:48.310059          HostDnsMonitorProxy::GetNameServers:
+00:19:48.310064            name server 1: 1.1.1.1
+00:19:48.310067            name server 2: 1.0.0.1
+00:19:48.310096          HostDnsMonitorProxy::GetSearchStrings:
+00:19:48.310100            no search string entries
+00:19:48.333011          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:19:48.364568          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:19:51.200749          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:19:51.206552          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:19:51.215105          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:20:10.991592          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:20:11.001346          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:20:11.029377          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:21:18.933214          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:21:18.945663          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:21:18.957299          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:21:21.375400          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:21:21.387071          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:21:21.395841          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:21:21.999002          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:21:22.009124          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:21:22.017470          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:21:40.906940          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:21:40.922264          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:21:40.927442          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:21:40.939587          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:51.429911          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:51.443061          Saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox" with version "1.19-windows"
+00:24:51.447563          Finished saving settings file "C:\Users\vrsc2\VirtualBox VMs\Windows XP 64bit\Windows XP 64bit.vbox"
+00:24:51.470321          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:29:05.520128          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:29:05.532839          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:34:20.851714 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:34:20.869263 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:34:20.869444 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:34:20.872899 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+01:00:31.650835 dns-monitor HostDnsMonitor: updating information
+01:00:31.675883 dns-monitor HostDnsMonitor: unchanged
+02:00:30.457382 dns-monitor HostDnsMonitor: updating information
+02:00:30.461715 dns-monitor HostDnsMonitor: unchanged
+03:00:30.480779 dns-monitor HostDnsMonitor: updating information
+03:00:30.482166 dns-monitor HostDnsMonitor: unchanged
+06:27:18.586503 dns-monitor HostDnsMonitor: updating information
+06:27:18.589442 dns-monitor HostDnsMonitor: unchanged
+07:27:18.615805 dns-monitor HostDnsMonitor: updating information
+07:27:18.616359 dns-monitor HostDnsMonitor: unchanged
+07:35:03.405990 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:35:03.427092 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:35:03.428295 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:35:34.651601 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:35:34.671646 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:35:34.702706 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:35:35.656730 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:35:35.672483 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:35:35.672633 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:35:35.672879 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:35:35.775858 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+07:35:37.331520 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:35:37.395368 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:35:37.395748 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:35:37.396073 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:36:14.261314 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:36:14.285020 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:36:14.285528 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+07:37:00.326713 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:37:00.347681 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:37:00.348409 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:37:12.023309 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:37:12.041617 USBPROXY usbLibDevGetHubPortDevices: No DriverKey on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:37:12.112144 USBPROXY usbLibDevCfgDrGet: IOCTL_USB_GET_DESCRIPTOR_FROM_NODE_CONNECTION #1 failed (dwErr=433) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:37:12.115794 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:37:12.116376 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:37:12.154336 USBPROXY USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0000)
+07:38:35.810669 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:38:35.830941 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:38:35.831833 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:39:19.479502 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:39:21.316319 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:39:21.316795 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:39:21.317589 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:39:21.317730 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+07:39:21.317925 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:39:21.581157 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:39:21.581572 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:39:21.582042 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:41:57.868245 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:41:57.885657 USBPROXY usbLibDevGetHubPortDevices: No DriverKey on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:41:57.885704 USBPROXY usbLibDevCfgDrGet: IOCTL_USB_GET_DESCRIPTOR_FROM_NODE_CONNECTION #1 failed (dwErr=433) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:41:57.888097 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:41:57.889339 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:41:57.889571 USBPROXY USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0000)
+07:42:04.689305 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:42:04.710541 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:42:04.711256 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:42:47.032524 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:42:47.051877 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:42:47.052123 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:42:47.052500 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:42:47.052580 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+07:44:29.743523 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:44:29.888826 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:44:29.889009 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:44:29.889778 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+07:44:51.798073 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:44:51.817962 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:44:51.818473 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+07:45:33.579999 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:45:33.599721 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:45:33.600631 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+07:49:32.910202 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:49:33.128662 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:49:33.129397 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:49:49.936826 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:49:49.953259 USBPROXY usbLibDevGetHubPortDevices: No DriverKey on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:49:49.953314 USBPROXY usbLibDevCfgDrGet: IOCTL_USB_GET_DESCRIPTOR_FROM_NODE_CONNECTION #1 failed (dwErr=433) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+07:49:49.953448 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:49:49.953546 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:49:49.953893 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:49:49.953953 USBPROXY USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0000)
+07:49:49.954048 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+07:50:28.872224 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:50:32.371573 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:50:32.372364 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:51:14.155265 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:51:16.030149 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:51:16.030339 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:51:16.030879 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+07:53:08.021423 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:53:08.040577 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:53:08.082522 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:53:10.382831 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+07:58:58.505395 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:58:58.525803 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+07:58:58.529872 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:05:04.361020 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:05:04.471929 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:05:04.472981 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:05:18.850397 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:05:18.872982 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:05:18.873541 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:06:00.621088 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:06:00.697253 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:06:00.697829 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:06:47.541175 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:06:47.559869 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+08:06:47.559991 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:06:47.560293 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:06:47.562728 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+08:07:28.327367 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:07:28.343884 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+08:07:28.344015 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:07:28.344393 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:08:06.154328 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:08:06.550947 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:08:06.553265 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:08:48.052484 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:08:48.070345 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+08:08:48.074496 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:08:48.075386 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:08:48.075502 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+08:14:58.172966 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:14:58.192884 USBPROXY usbLibDevGetHubPortDevices: No DriverKey on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+08:14:58.193006 USBPROXY usbLibDevCfgDrGet: IOCTL_USB_GET_DESCRIPTOR_FROM_NODE_CONNECTION #1 failed (dwErr=433) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+08:14:58.197585 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:14:58.198744 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+08:14:58.200223 USBPROXY USB: Unknown USB device detected (idVendor: 0x0000, idProduct: 0x0000)
+08:15:05.026222 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:15:05.051940 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:15:05.052372 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+08:15:47.242550 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:15:47.260703 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+08:15:47.261109 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:15:47.261585 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+08:15:47.261682 USBPROXY USB: Unknown USB device detected (idVendor: 0x3277, idProduct: 0x009d)
+08:21:00.072644 USBPROXY usbLibGetDevices: Starting USB device enumeration
+08:21:00.091259 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16fbc327&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+08:21:00.091947 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+08:27:18.665768 dns-monitor HostDnsMonitor: updating information
+08:27:18.666097 dns-monitor HostDnsMonitor: unchanged
+08:32:41.627357 main     WM_QUERYENDSESSION: critical (0x40000000)
+08:32:41.628926 main     VBoxSvc has active connections: bActivity = false, lock count = 2
+08:32:41.731218 main     WM_ENDSESSION: critical (TRUE/0x40000000)
